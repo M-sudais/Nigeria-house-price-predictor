@@ -104,10 +104,10 @@ And get:
 ## 📸 Screenshots
 
 ### 🔹 App Interface
-![App Screenshot](images/App Screenshot.jpeg)
+![App Screenshot](images/App_Screenshot.jpeg)
 
 ### 🔹 Prediction Output
-![Prediction Screenshot](images/Prediction Screenshot.jpeg)
+![Prediction Screenshot](images/Prediction_Screenshot.jpeg)
 
 ---
 
